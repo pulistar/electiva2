@@ -91,10 +91,10 @@ WSGI_APPLICATION = 'backend.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'django',
+        'NAME': 'djangito',
         'USER': 'camilo',
-        'PASSWORD': 'TuyYo17_&',
-        'HOST': 'basedatos.postgres.database.azure.com',
+        'PASSWORD': 'kamilopulistar17+',
+        'HOST': 'camiloo.postgres.database.azure.com',
         'PORT': '5432',
         'OPTIONS': {
             'sslmode': 'require',
